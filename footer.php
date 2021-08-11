@@ -1,0 +1,1 @@
+<footer class="footer"> © <?php echo date("Y"); ?> Secretaría de Comunicaciones y Transportes </footer>
